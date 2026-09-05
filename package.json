@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Gamana.github.io/TaskManager",
+  "homepage": "https://tamimabegum158-arch.github.io/Task-Manager",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

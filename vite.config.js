@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/TaskManager/', // must match your repo name
+  base: '/Task-Manager/', // must match your repo name
 })
